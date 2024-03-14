@@ -9,6 +9,13 @@ then
 echo "$year is a leap year"
 else
 echo "$year is not a leap year"
+fi
+else
+echo "$year is a leap year"
+fi
+else
+echo "$year is not a leap year"
+fi
 
 
 
